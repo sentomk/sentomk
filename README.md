@@ -1,4 +1,6 @@
-- :computer: &nbsp;Reach me via **[email](mailto:sentomk@proton.me)**
+Reach me via email: **[recv@sentomk.me](mailto:recv@sentomk.me)**
+
+> *receive `0` if I've closed the connection.* <3
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,js,wasm)](https://skillicons.dev)
 
